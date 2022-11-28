@@ -1,4 +1,4 @@
-# Movie Selector with custom animated carusel (use TMDB api)
+# Custom DRAWER ANIMATION
 
 <p>
   <!-- iOS -->
